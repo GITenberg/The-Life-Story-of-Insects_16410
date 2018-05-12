@@ -1,0 +1,30 @@
+_repo: The-Life-Story-of-Insects_16410
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Carpenter, George H. (George Herbert)
+    alias: Carpenter, George Herbert
+    birthdate: 1865
+    deathdate: 1939
+    gutenberg_agent_id: '6686'
+    url: http://www.gutenberg.org/2009/agents/6686
+description: ''
+gutenberg_bookshelf:
+- Animals-Wild-Insects
+- Biology
+gutenberg_issued: '2005-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16410'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'QL'
+- !lcsh 'Insects -- Development'
+title: The Life-Story of Insects
+url: http://www.gutenberg.org/ebooks/16410
