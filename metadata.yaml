@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '6686'
     url: http://www.gutenberg.org/2009/agents/6686
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16410#The-Life-Story-of-Insects
 gutenberg_bookshelf:
 - Animals-Wild-Insects
 - Biology
